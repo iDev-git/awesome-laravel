@@ -416,7 +416,8 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
 * [Laravel Enso](https://github.com/laravel-enso/enso)
-* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
+* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue)
+* [CoreUI Free Laravel Admin Template](https://github.com/coreui/coreui-free-laravel-admin-template) 
 
 ## Codebases for Reference
 
